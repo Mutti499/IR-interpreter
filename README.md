@@ -7,3 +7,5 @@ A transpiler, also known as a source-to-source compiler, is a type of compiler t
 from one programming language to another. In this case, our program will translate the input code into
 LLVM IR code, which is a low-level intermediate representation that can be used to generate code for various
 target architectures
+
+This project is the enchanced version of "https://github.com/Mutti499/c-interpreter"
